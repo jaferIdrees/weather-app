@@ -11,7 +11,7 @@
 
 ## Live Demo 
 
-[Coming Soon]()
+[Coming Soon](https://630cd93d1ab82d0059f02ac8--singular-peony-e5ed38.netlify.app/)
 
 
 ## Getting Started
