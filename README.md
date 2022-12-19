@@ -11,7 +11,7 @@
 
 ## Live Demo 
 
-[Coming Soon](https://630cd93d1ab82d0059f02ac8--singular-peony-e5ed38.netlify.app/)
+[Live demo](https://630cd93d1ab82d0059f02ac8--singular-peony-e5ed38.netlify.app/)
 
 
 ## Getting Started
@@ -21,13 +21,13 @@
 To get a local copy up and running follow these simple example steps.
 
 
-## Authors
+## Author
 
 👤 **Ja'fer Yousef**
 
 - GitHub: [@githubhandle](https://github.com/jaferIdrees)
 - Twitter: [@twitterhandle](https://twitter.com/jafel_l)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/jaferll)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jafer-idrees)
 
 
 ## 🤝 Contributing
